@@ -16,4 +16,5 @@ The second step is to use test to add users of the same level as test1
 and use the request body that just got admin
 ![image](https://github.com/1541284314/cve1/assets/115146404/5f6a092e-38de-4a58-9918-3df1e7a6bf25)
 The status code of the response packet is sometimes 302 and sometimes 200, but it does not affect the result.
+![image](https://github.com/1541284314/cve1/assets/115146404/dcc127d8-047e-47ee-8e9e-b575b8483568)
 
